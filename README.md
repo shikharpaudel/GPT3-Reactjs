@@ -1,3 +1,10 @@
+![Screenshot (1)](https://github.com/shikharpaudel/GPT3-Reactjs/assets/75170007/c75316d0-2e43-4e51-afe1-2bc7b0fd83b2)
+![Screenshot (2)](https://github.com/shikharpaudel/GPT3-Reactjs/assets/75170007/d7429a78-e17d-423a-a62f-0b752be59fa3)
+![Screenshot (3)](https://github.com/shikharpaudel/GPT3-Reactjs/assets/75170007/1a8889d2-152b-4310-bbd5-b3da187b6a4b)
+![Screenshot (4)](https://github.com/shikharpaudel/GPT3-Reactjs/assets/75170007/d50235eb-2956-49ba-99e8-c833b9303dd8)
+![Screenshot (5)](https://github.com/shikharpaudel/GPT3-Reactjs/assets/75170007/d0153775-ff50-4aad-978a-8daad7173d43)
+![Screenshot (6)](https://github.com/shikharpaudel/GPT3-Reactjs/assets/75170007/9e735cf1-290d-4818-8a23-29e0023c434f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
